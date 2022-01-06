@@ -1,0 +1,107 @@
+body {font-family: 'DM Serif Display', serif;
+}
+h1{ 
+   font-size: 40px;
+   font-style: normal ;
+   font-display: meadium;
+color: darksalmon;
+}
+.orange-color{ 
+color:orangered
+}
+.flexible-container{ 
+display: flex;
+margin-bottom: 10px;
+}
+
+.link-button{
+   color: white;
+   background-color: purple;
+   padding: 10px 20px;
+
+}
+
+.half-width{
+   width: 40%;
+   padding-left: 3%;
+   padding-right: 10%;
+   padding-block: 5%;
+}
+.p{ 
+    font-display: half;
+    font-variant: normal;
+    font-style: normal;
+    font-size: 80px;
+}
+.half-width image{ 
+    width: 200%;
+    }
+
+ .link-buttton{ 
+        padding: 20px,30px;
+        background-color: tomato;
+        color: white;
+        border-radius: 5px;  
+        padding-block: 5px;
+        }
+        
+        my misson area{ 
+            padding-left: 10px 20px;
+            width: 40%;
+          text-shadow: 50px;
+          box-shadow: 10px 10px 40px grey;
+          margin-left: 5%;
+          margin-right: 5%;
+        }
+        .flexible-container { 
+           font-display: left;
+        font-size: 15px;
+        padding-left: 10px;
+        font-size: 15px;
+        border-image-width: half width;
+    }
+    .half-width img{ 
+        width: 60%;
+    }
+    .hd flexible-container{ 
+        display: flex;
+        margin-right: 30px;
+        padding-right: 20%;
+          width: 50%;
+        }
+  
+i
+        .half-width{
+           width: 80%;
+           padding-left: 3%;
+           padding-right: 10%;
+           padding-block: 5%;
+        }
+        .me flexible-container{
+           height: 20%;
+            display: flex;
+            padding: left 500px;
+            margin-left: 10%;
+            font: smaller;
+            width: 50%;
+   padding-left: 3%;
+   padding-right: 10%;
+   padding-block: 5%;
+}
+
+        
+.footer {
+   background-color: black;
+   text-align: center;
+padding: 3px;
+color: white; 
+font-family: monospace;
+        }
+      
+         .footer  {
+            color: whitesmoke;
+          background-color: black;
+          text-align: center;
+       font-display: yellow;
+               }
+               
